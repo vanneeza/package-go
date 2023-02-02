@@ -1,5 +1,5 @@
 package gopackme
 
-func hello() string {
-	return "Hello"
+func Hello() string {
+	return "Hello, Bisa Lah"
 }
